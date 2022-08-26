@@ -1,0 +1,23 @@
+.slider .carousel .carousel-inner .carousel-item .image-1 {
+  width: 100%;
+  height: 100px;
+  background-image: url('../images/banner-portada-facebook-venta-productos-marca-auriculares_161103-93.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider .carousel .carousel-inner .carousel-item .image-2 {
+  width: 100%;
+  height: 100px;
+  background-image: url('../images/BANNER3.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slider .carousel .carousel-inner .carousel-item .image-3 {
+  width: 100%;
+  height: 100px;
+  background-image: url('../images/banners-1170-x-390-Julio-PROMO-CELULARES-01.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
